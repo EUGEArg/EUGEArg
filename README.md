@@ -1,4 +1,4 @@
-<p align="center"><a href="https://eugearg.github.io/portfolio/"><img width="80%" src="/assets/img-profile.png" /></a></p>
+<p align="center"><a href="https://eugearg.github.io/portfolio/">Hola! Soy Eugenia</a></p>
 
 
 <h2 align="center">I am a Frontend Developer in continuous learning. I currently participate in the ONE-Oracle Next Education program</h2>

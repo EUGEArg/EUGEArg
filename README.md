@@ -1,7 +1,7 @@
-<p align="center"><a href="https://eugearg.github.io/portfolio/">Hola! Soy Eugenia</a></p>
+<h1 align="center"><a href="https://eugearg.github.io/portfolio/">Hola! Soy Eugenia</a></h1>
 
 
-<h2 align="center">I am a Frontend Developer in continuous learning. I currently participate in the ONE-Oracle Next Education program</h2>
+<h2 align="center">Soy Desarrolladora Frontend en continuo aprendizaje y perfeccionamiento de las habilidades adquiridas.</h2>
 
 <br/>
 <br/>
@@ -11,7 +11,7 @@
 **About me**
 
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js, and Java**.
+- 🌱 I’m currently learning **JavaScript, React, Next.js, Node.js**.
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 

@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **eugeniarivarossa@gmail.com**
 
-- 📄 Know about my experiences [eugeniarivarossa.vercel.app](eugeniarivarossa.vercel.app)
+- 📄 Know about my experiences [https://eugeniarivarossa.vercel.app/](eugeniarivarossa.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
